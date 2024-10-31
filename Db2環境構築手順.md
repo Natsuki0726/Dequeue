@@ -24,4 +24,4 @@ docker create --name db2test  \
 ```
 
 ### 参考資料
-[M1 Mac上でcolimaを使ってDb2 Community Edition Docker イメージを動かす](https://qiita.com/nishikyon/items/553b5c4dff473d9b6322)
+- [M1 Mac上でcolimaを使ってDb2 Community Edition Docker イメージを動かす](https://qiita.com/nishikyon/items/553b5c4dff473d9b6322)

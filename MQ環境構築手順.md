@@ -30,4 +30,4 @@ https://localhost:9443/ibmmq/console/
 - パスワード：passw0rd
 
 ### 参考資料
-[Get an IBM MQ queue for development in a container](https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-containers/)
+- [Get an IBM MQ queue for development in a container](https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-containers/)
